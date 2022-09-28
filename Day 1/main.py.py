@@ -1,0 +1,5 @@
+print("my name is adit")
+print("in september 26th 2022")
+print("I am signimh up 100 days of python challenge")
+print("I'll make sure to spend some time every day coding along, for minimum of 10 minutes a day")
+print("no excuses for not coding from the middle of a field")
