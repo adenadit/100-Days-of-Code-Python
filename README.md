@@ -1,6 +1,6 @@
 # 100-Days-of-Code-Python
-- [Day 1](Day1) - Hello World!!!
-- [Day 2](Day2) - Input and Variables
+- [Day 1](https://github.com/adenadit/100-Days-of-Code-Python/tree/main/Day%201) - Hello World!!!
+- [Day 2](Day 2) - Input and Variables
 - [Day 3](Day3) - Concatenating
 - [Day 4](Day4) - 'print' in colour
 - [Day 5](Day5) - If and Else
