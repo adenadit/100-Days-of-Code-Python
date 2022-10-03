@@ -5,5 +5,5 @@
 - [Day 4](Day4) - 'print' in colour
 - [Day 5](Day5) - If and Else
 - [Day 6](Day6) - Elif
-- Day7 - Nesting
+- [Day 7](Day7) - Nesting
 
